@@ -7,6 +7,7 @@ output:
 editor_options:
   chunk_output_type: console
 ---
-[Pumpkins test](pumpkins_report.html)
 
 Welcome to my research website.
+
+This is my [pumpkins report](pumpkins_report.html)
